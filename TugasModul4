@@ -22,7 +22,7 @@ def menghapus_buku():
         buku.remove(buku[indeks])
 
 def tentang_kami():
-    print("   Kami adalah kelompok 15. Ini merupakan program perpustakaan \ndimana kita dapat melihat daftar list pinjaman buku, menambahkan buku,\n                      dan juga menghapus buku")
+    print("   Kami adalah kelompok 15. Ini merupakan program perpustakaan \ndimana kita dapat melihat daftar list pinjaman buku, menambahkan buku,\n dan juga menghapus buku")
 
 def pilihan_menu():
     print ("\n")
